@@ -1,0 +1,175 @@
+{
+    "code": 20000,
+    "data": {
+        "videoData": [
+            {
+                "name": "springboot",
+                "value": 1439.89
+            },
+            {
+                "name": "vue",
+                "value": 3437
+            },
+            {
+                "name": "小程序",
+                "value": 8682
+            },
+            {
+                "name": "ES6",
+                "value": 1489.85
+            },
+            {
+                "name": "Redis",
+                "value": 7263.6
+            },
+            {
+                "name": "React",
+                "value": 1010.7
+            }
+        ],
+        "userData": [
+            {
+                "date": "张三",
+                "new": 54,
+                "active": 793
+            },
+            {
+                "date": "李四",
+                "new": 12,
+                "active": 649
+            },
+            {
+                "date": "王五",
+                "new": 43,
+                "active": 806
+            },
+            {
+                "date": "赵六",
+                "new": 86,
+                "active": 102
+            },
+            {
+                "date": "孙七",
+                "new": 88,
+                "active": 409
+            },
+            {
+                "date": "周八",
+                "new": 64,
+                "active": 330
+            },
+            {
+                "date": "吴九",
+                "new": 33,
+                "active": 852
+            }
+        ],
+        "orderData": {
+            "date": [
+                "20191001",
+                "20191002",
+                "20191003",
+                "20191004",
+                "20191005",
+                "20191006",
+                "20191007"
+            ],
+            "data": [
+                {
+                    "vue": 1316.1,
+                    "wechat": 2608.5,
+                    "ES6": 3871.7,
+                    "Redis": 7329.7,
+                    "React": 5046.56,
+                    "springboot": 7905
+                },
+                {
+                    "vue": 6248.7,
+                    "wechat": 786.2,
+                    "ES6": 7201.6,
+                    "Redis": 7001.5,
+                    "React": 6236.64,
+                    "springboot": 7729.5
+                },
+                {
+                    "vue": 1153,
+                    "wechat": 3676.8,
+                    "ES6": 5921.4,
+                    "Redis": 5552.5,
+                    "React": 4154,
+                    "springboot": 3111
+                },
+                {
+                    "vue": 3876.9,
+                    "wechat": 3196.2,
+                    "ES6": 1521.6,
+                    "Redis": 2552.22,
+                    "React": 4098,
+                    "springboot": 2584
+                },
+                {
+                    "vue": 4590.18,
+                    "wechat": 757.45,
+                    "ES6": 2500.8,
+                    "Redis": 1941.54,
+                    "React": 6798.3,
+                    "springboot": 104.7
+                },
+                {
+                    "vue": 4716.4,
+                    "wechat": 4847,
+                    "ES6": 7025.7,
+                    "Redis": 5676.4,
+                    "React": 1835.37,
+                    "springboot": 7029.3
+                },
+                {
+                    "vue": 4072.33,
+                    "wechat": 5189.7,
+                    "ES6": 5259.4,
+                    "Redis": 1613.4,
+                    "React": 7626.2,
+                    "springboot": 1253
+                }
+            ]
+        },
+        "tableData": [
+            {
+                "name": "ES6",
+                "todayBuy": 796,
+                "monthBuy": 4145.36,
+                "totalBuy": 634494.4
+            },
+            {
+                "name": "小程序",
+                "todayBuy": 778,
+                "monthBuy": 4832.26,
+                "totalBuy": 979631.1
+            },
+            {
+                "name": "Vue",
+                "todayBuy": 462.7,
+                "monthBuy": 4359.7,
+                "totalBuy": 884411.1
+            },
+            {
+                "name": "springboot",
+                "todayBuy": 972.5,
+                "monthBuy": 4939.2,
+                "totalBuy": 876956.8
+            },
+            {
+                "name": "React",
+                "todayBuy": 218.7,
+                "monthBuy": 3554.79,
+                "totalBuy": 648846
+            },
+            {
+                "name": "Redis",
+                "todayBuy": 919,
+                "monthBuy": 3502.7,
+                "totalBuy": 459463.3
+            }
+        ]
+    }
+}
