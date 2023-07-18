@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,f as o}from"./index.f771df5d.js";const n={},c=o("h1",null,"404 Not Found",-1),_=o("h2",null,"\u5BF9\u4E0D\u8D77\uFF0C\u4F60\u8981\u7684\u9875\u9762\u627E\u4E0D\u5230",-1),a=[c,_];function r(d,l,i,p,u,f){return t(),s("div",null,a)}const m=e(n,[["render",r]]);export{m as default};
